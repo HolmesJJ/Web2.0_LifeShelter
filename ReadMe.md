@@ -1,3 +1,4 @@
+```
 npm init
 npm install body-parser --save
 npm install express --save
@@ -14,3 +15,4 @@ git add .
 git commit -m "Commit 1"
 git remote add origin https://github.com/hjjznb/LifeKingdom.git
 git push -u origin master
+```
