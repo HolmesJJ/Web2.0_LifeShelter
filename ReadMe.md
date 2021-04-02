@@ -9,10 +9,4 @@ npm install express-fileupload --save
 npm install request --save
 npm install node-schedule --save
 npm install node-media-server --save
-
-git init
-git add .
-git commit -m "Commit 1"
-git remote add origin https://github.com/hjjznb/LifeKingdom.git
-git push -u origin master
 ```
