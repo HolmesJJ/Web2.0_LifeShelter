@@ -1,0 +1,30 @@
+{
+  "name": "web2.0_lifeshelter",
+  "version": "1.0.0",
+  "description": "npm init\r npm install body-parser -save\r npm install express --save\r npm install http --save\r npm install socket.io --save\r npm install mongoose --save\r npm install express-fileupload --save\r npm install request --save\r npm install node-schedule --save\r npm install node-media-server --save",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hjjznb/Web2.0_LifeShelter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hjjznb/Web2.0_LifeShelter/issues"
+  },
+  "homepage": "https://github.com/hjjznb/Web2.0_LifeShelter#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "express-fileupload": "^0.4.0",
+    "http": "0.0.0",
+    "mongoose": "^5.2.5",
+    "node-media-server": "^1.4.3",
+    "node-schedule": "^1.3.0",
+    "request": "^2.87.0",
+    "socket.io": "^2.1.1"
+  }
+}
